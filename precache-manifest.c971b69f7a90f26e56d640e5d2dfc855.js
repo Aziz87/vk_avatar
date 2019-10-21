@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ae0113133eadcb872a56f8dede47714e",
+    "revision": "befa3924b40951ca969de4671fad6397",
     "url": "/vk_avatar/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vk_avatar/static/css/2.7214840c.chunk.css"
   },
   {
-    "revision": "bb963720cf416c834ba1",
+    "revision": "2d5dba2e3d4200750768",
     "url": "/vk_avatar/static/css/main.981f7211.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vk_avatar/static/js/2.c9499849.chunk.js"
   },
   {
-    "revision": "bb963720cf416c834ba1",
-    "url": "/vk_avatar/static/js/main.5a84ffd6.chunk.js"
+    "revision": "2d5dba2e3d4200750768",
+    "url": "/vk_avatar/static/js/main.fe7f8304.chunk.js"
   },
   {
     "revision": "32234272befdae55de2e",
