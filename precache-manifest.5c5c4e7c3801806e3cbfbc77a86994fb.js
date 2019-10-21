@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9711f6642f20a4dae0e430d59de19309",
+    "revision": "5bf81d0ea112480e0400a707953b0369",
     "url": "/vk_avatar/index.html"
   },
   {
-    "revision": "11744b36878cb7ec0214",
+    "revision": "85b4f6a14a6912da6499",
     "url": "/vk_avatar/static/css/2.7214840c.chunk.css"
   },
   {
-    "revision": "3789747e4483ea184619",
+    "revision": "2d9a703c551f498df410",
     "url": "/vk_avatar/static/css/main.981f7211.chunk.css"
   },
   {
-    "revision": "11744b36878cb7ec0214",
-    "url": "/vk_avatar/static/js/2.bf899c2c.chunk.js"
+    "revision": "85b4f6a14a6912da6499",
+    "url": "/vk_avatar/static/js/2.36eb0d88.chunk.js"
   },
   {
-    "revision": "3789747e4483ea184619",
-    "url": "/vk_avatar/static/js/main.7c222c18.chunk.js"
+    "revision": "2d9a703c551f498df410",
+    "url": "/vk_avatar/static/js/main.336ec336.chunk.js"
   },
   {
     "revision": "32234272befdae55de2e",
